@@ -1,7 +1,7 @@
 # Building an Car Booking System with React
 Simple React Booking system Using React Js with lodash npm module.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://react-booking-system.herokuapp.com/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://react-carbooking-sample.herokuapp.com/)
 
 ## Instructions
 
