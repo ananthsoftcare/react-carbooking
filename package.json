@@ -7,7 +7,7 @@
     "start": "webpack-dev-server --hot",
     "build": "node server.js"
   },
-  "author": "Praveen",
+  "author": "Ananth",
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.18.2",
